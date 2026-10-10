@@ -15,3 +15,6 @@ NIM:2430511040
 3. Penerapan Props: Mengalirkan data dinamis (judul, tanggal, preview isi buku harian, gambar, dan tipe mood) dari file utama ke dalam komponen DiaryCard
 4. Dynamic Styling (Gaya Dinamis): Mengubah warna border (garis tepi) pada kartu secara otomatis menggunakan fungsi switch yang merespons perubahan teks pada properti moodType
 5. Penggunaan Aset Lokal: Mengimpor dan merender gambar secara offline yang tersimpan di dalam folder assets/moods
+
+Screenshoot Aplikasi:
+<img width="738" height="1600" alt="Diary-App" src="https://github.com/user-attachments/assets/d01be697-2e25-482d-b064-8c4f8e5de207" />
